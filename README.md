@@ -1,5 +1,6 @@
-### Olá, Sou Jairo Domingues
+### Jairo Domingues
 
+I am a systems engineer focused on infrastructure in the Backup, Cloud, Hardware, and Storage verticals.
 
 [![Blog](https://img.shields.io/website?label=Blog_Jairowmd&style=for-the-badge&url=https://jairowmd.wordpress.com/)](https://jairowmd.wordpress.com/)
 
